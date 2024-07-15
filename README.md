@@ -5,6 +5,7 @@ Features
 Optimized Learning: Create, edit, and review flashcards to enhance your study sessions.
 Robust Backend: Ensures consistency and reliability with JUnit testing.
 RESTful APIs: Manages user requests and handles errors effectively.
+
 Technologies Used
 Front-end: TypeScript, ReactJS
 Back-end: ExpressJS
